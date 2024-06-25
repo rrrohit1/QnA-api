@@ -31,6 +31,8 @@ cd QnA-api
 conda env create -f environment.yaml
 ```
 
+4. Follow the instructions [here](https://python.langchain.com/v0.2/docs/integrations/chat/ollama/) to download ollama which allows us to download and use Llama3 model locally.
+
 ## Usage
 
 ### Running the Application
