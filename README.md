@@ -17,7 +17,7 @@ To get started with the QnA API, clone the repository to your local machine and 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/QnA-api.git
+git clone https://github.com/rrrohit1/QnA-api.git
 ```
 
 2. Navigate to the cloned directory:
